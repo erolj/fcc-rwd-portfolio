@@ -1,0 +1,1 @@
+body{font-family:iosevka mayukai web,monospace}.jumbotron{place-items:center}.jumbotron h1{font-size:clamp(3rem,6vw,6rem)}.projects__card .card h3{font-size:1rem;font-weight:700}@media screen and (max-height:400px){.projects__card{flex-direction:column}}
